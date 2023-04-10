@@ -1,9 +1,13 @@
-# D1s-bl-r
-D1sc0rd D1s@bler by SEA#0001
+# D1s-bl-er
+Discord Disabler Account
+
+# Installation
+    JS NPM
+ ```npm i request-async```
 
 
-# Command
+# Usage
  ```node index.js <token>```
 
 # Contact
- SEA#0001 on Discord
+ SEA#0001 On Discord
